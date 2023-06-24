@@ -47,7 +47,7 @@ local Library = {
     ScreenGui = ScreenGui;
 };
 
-local RainbowStep = 0
+local RainbowStep = 5
 local Hue = 0
 
 table.insert(Library.Signals, RenderStepped:Connect(function(Delta)
