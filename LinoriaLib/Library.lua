@@ -39,7 +39,7 @@ local Library = {
     AccentColor = Color3.fromRGB(255, 0, 0);
     OutlineColor = Color3.fromRGB(26, 38, 196);
 
-    Black = Color3.new(26, 38, 196);
+    Black = Color3.new(0, 0, 0);
 
     OpenedFrames = {};
 
